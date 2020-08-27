@@ -1,5 +1,11 @@
-### Hi there 👋
+## Hi there 👋
 
+I'm Cosmin James and I use coding to shape my ideas. <br/>
+I believe deleted code is debugged code.
+
+### I'm working on:
+* ⚙️ &nbsp; VME - Visual Makefile Editor. Draw visual blueprints for the GNU `make` utility (and more!)
+* 💠 &nbsp; rendeer - 3D rendering engine for Python.
 <!--
 **cppjames/cppjames** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
