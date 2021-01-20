@@ -1,7 +1,6 @@
 ## Hi there 👋
 
 I'm Cosmin James and I use coding to shape my ideas. <br/>
-I believe deleted code is debugged code.
 
 ### I'm working on:
 * ⚙️ &nbsp; VME - Visual Makefile Editor. Draw visual blueprints for the GNU `make` utility (and more!)
