@@ -1,8 +1,7 @@
-## Hi there 👋
+## Hi there!
+It is the semicolon. On line 37. You forgot to add it.
 
-I'm Cosmin James, and I like to write software (and, of course, design, document, build, debug, test, fix it!).
-
-### More about me...
+### About me...
 Ask me about any of my projects. Talk to me about yours! If I can't lend a hand, I might give you a tip. I'm open to collaboration - just send me a message.
 
 ### Contact me
